@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning web devlopment
 - 😄 Pronouns: Male
-- ⚡ Fun fact: I love play Cricket
+- ⚡ Fun fact: I love to play Cricket
 
 <!---
 Amaanxn/Amaanxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
